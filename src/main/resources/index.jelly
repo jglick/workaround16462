@@ -1,0 +1,4 @@
+<div>
+  Works around <a href="https://issues.jenkins-ci.org/browse/JENKINS-16462">JENKINS-16462</a>:
+  run parameters do not support folders.
+</div>
